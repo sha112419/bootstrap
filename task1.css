@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+body{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(to right ,blue,violet);
+}
+form{
+    height: 24rem;
+    width: 30rem;
+    flex-direction: column;
+    display: flex;
+    box-shadow: 0 11px 32px 0 rgba(31,38,135,.37);
+    border-radius: 30px;
+}
